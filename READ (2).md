@@ -22,5 +22,7 @@
 18.cd..      -It move to one step back
 19.cd.       -It stays in currnet path
 20.mv        -It is used to move file/directory or rename-file/directory
+21.tail      -It displays the last 10 lines of a file
+22.head      - It displays first 10 lines of a file
  
 Project created by :Bindu M
